@@ -5,7 +5,7 @@
 ### Installation
 
 ```bash
-pip install git+https://github.com/wahidurahman/produhacks/
+pip install git+https://github.com/wahidurahman/produhacks/.git
 ```
 
 ### Usage
@@ -54,10 +54,8 @@ the command(s) of the script in natural language after execution.
 
 ### Roadmap
 
-I'm open-sourcing this in the interest of collaboration and openness,
-but I don't plan on maintaining it a lot. There are a few improvements
-that can be made though:
+* description
 
-* Better prompts
-* Run an LLM locally instead of relying on OpenAI
-* Caution the user before making destructive actions
+* null
+* null
+* null
