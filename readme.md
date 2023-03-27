@@ -40,16 +40,10 @@ Creating a .gitignore file and adding rules to ignore various types of files and
 
 ### Features
 
-* If a script fails, `please` pipes stderr back into the LLM
-to create a revised script. This is especially useful when a file
-or dependency doesn't exist, etc.
+* null
 
-* If the prompt isn't specific enough, `please` prompts the user for
-extra information, which gets inserted into the script before it's run.
-
-* `please` will print the command(s) being executed, and summarizes
-the command(s) of the script in natural language after execution.
-
+* null
+* `null` null
 
 
 ### Roadmap
