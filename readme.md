@@ -1,22 +1,19 @@
-# `please`: Ask your computer nicely
+# `Produhacks'
 
-`please` is a command-line tool that accepts natural language
-input, then uses an LLM to generate + run a Bash script.
+`null` 
 
 ### Installation
 
 ```bash
-pip install git+https://github.com/aniiyengar/please.git
+pip install git+https://github.com/wahidurahman/produhacks/
 ```
 
 ### Usage
 
-> **NOTE:** You need to pass your OpenAI API key in your environment as `OPENAI_API_KEY`.
-
-Type your prompt in natural language starting with the word "please".
+> **NOTE:** 
 
 ```bash
-$ please <prompt>
+$  <prompt>
 ```
 
 For example:
