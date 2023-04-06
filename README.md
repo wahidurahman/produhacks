@@ -1,7 +1,7 @@
 
 # `produhacks`: 
 
-`null` description...
+inactive project
 
 ### Installation
 
